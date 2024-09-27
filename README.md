@@ -1,5 +1,5 @@
 
-Here’s a README file template based on the project you’ve described:
+Here’s a README 
 
 GeminiDocChat: Chat with Your PDF Documents
 GeminiDocChat is an AI-powered application that allows users to upload PDF documents and interact with them through conversational prompts. Built using Google Gemini for embeddings and chat models, this app extracts text from uploaded PDFs and provides meaningful, context-aware responses to user queries based on the document content. It leverages Langchain for chunking the text and FAISS for similarity search across document chunks.
